@@ -1,0 +1,22 @@
+.products {
+    width: 100%;
+    background-color: rgba(219, 219, 219, 1);
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.products--dark-mode {
+    background-color: rgba(40, 44, 52, 1);
+}
+
+.basket-button {
+    padding: 13px 30px;
+    text-align: center;
+    border-radius: 3px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(156, 42, 160, 1);
+    align-self: flex-end;
+    margin: 5%
+}

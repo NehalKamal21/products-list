@@ -1,0 +1,15 @@
+.category-name {
+    color: black;
+    text-align: left;
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+.category-name--dark-mode {
+    color: white;
+}
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+}

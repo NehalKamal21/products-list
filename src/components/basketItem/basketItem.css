@@ -1,0 +1,15 @@
+.basket-item-container {
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.product-name,
+.price {
+    flex: 1
+}
